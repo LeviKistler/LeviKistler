@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Levi Kistler</h1>
 <h3 align="center">Business Analytics Masters Student, Purdue University</h3>
 
-- 🌱 I’m currently learning **How to effectively use AI Language Models to create appropriate Python scripts that can then be used within cloud based tools such as GitHub, Google Collab, and Plotly to visually view large data sets. From now to the end of the year I will be learning how to effective use Python, R, and SQL.**
+- 🌱 I’m currently learning **I am developing my skills in leveraging AI language models to create effective Python scripts for use within cloud-based platforms such as GitHub, Google Colab, and Plotly, with a focus on visualizing large datasets. Through the remainder of the year, I will continue building proficiency in Python, R, and SQL.**
 
 - 📫 How to reach me **levikistler14@gmail.com**
 
