@@ -11,10 +11,10 @@ About Me: I'm a finance professional with 4 years of experience in financial ana
 
 Education: | Degree | Institution | Year |
 
-Certification: CBA | NACM | 2025 | 
+| Certification: CBA | NACM | 2025 | 
 
-| 
-B.S. Finance | Indiana University | 2022 | 
+ 
+| B.S. Finance | Indiana University | 2022 | 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/levi-kistler" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="levi-kistler" height="30" width="40" /></a>
