@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **developing my skills in leveraging AI language models to create effective Python scripts for use within cloud-based platforms such as GitHub, Google Colab, and Plotly, with a focus on visualizing large datasets. Through the remainder of the year, I will continue building proficiency in Python, R, and SQL.**
 
-- 📫 How to reach me **levikistler14@gmail.com**
+- 📫 How to reach me **lkistle@purdue.edu**
 
 - ⚡ Fun fact **Outside of school and work I am a big Ohio State fan and love to golf.**
 
