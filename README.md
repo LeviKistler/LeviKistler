@@ -11,9 +11,8 @@ About Me: I'm a finance professional with 4 years of experience in financial ana
 
 Education: | Degree | Institution | Year |
 
-|--------|-------------|------|
+Certification: CBA | NACM | 2025
 
-Certification: CBA | NACM | 2025 
 | 
 B.S. Finance | Indiana University | 2022 | 
 <h3 align="left">Connect with me:</h3>
