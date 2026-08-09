@@ -7,16 +7,16 @@
 
 - ⚡ Fun fact **Outside of school and work I am a big Ohio State sports fan and love to golf.**
 
-About Me: I'm a finance professional with 4 years of experience in financial analysis and underwriting, currently pursuing a Master's in Business Data Analytics at Purdue University. I'm transitioning my career toward consulting and strategic planning, where I can combine analytical rigor with a genuine drive to help organizations grow and solve complex problems. I bring a detail-oriented, data-driven mindset along with strong problem-solving skills, adaptability, and a collaborative approach to working with cross-functional teams. I'm naturally curious and thrive on learning new tools and frameworks quickly — whether that's a new analytics platform or an unfamiliar business domain. When I take something on, I focus on finding the "why" behind the numbers, not just the numbers themselves.
+**About Me**: I'm a finance professional with 4 years of experience in financial analysis and underwriting, currently pursuing a Master's in Business Data Analytics at Purdue University. I'm transitioning my career toward consulting and strategic planning, where I can combine analytical rigor with a genuine drive to help organizations grow and solve complex problems. I bring a detail-oriented, data-driven mindset along with strong problem-solving skills, adaptability, and a collaborative approach to working with cross-functional teams. I'm naturally curious and thrive on learning new tools and frameworks quickly — whether that's a new analytics platform or an unfamiliar business domain. When I take something on, I focus on finding the "why" behind the numbers, not just the numbers themselves.
 
-| Education: Degree | Institution | Year |
+**| Education: Degree | Institution | Year |**
 
 | Certification: CBA | NACM | 2025 | 
 
  
 | B.S. Finance | Indiana University | 2022 | 
 
-Skills/Tech Stack:
+**Skills/Tech Stack**:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
@@ -25,7 +25,7 @@ Skills/Tech Stack:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
-Contact: 
+**Contact**: 
 
 Email: lkistle@purdue.edu
 
