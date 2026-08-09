@@ -13,7 +13,7 @@
 
 | Degree | Institution | Year |
 |---|---|---|
-| CBA (Certification, NACM) | — | 2025 |
+| Credit Business Association (CBA Certification) | NACM | 2025 |
 | B.S. Finance | Indiana University | 2022 | 
 
 **Skills/Tech Stack**:
