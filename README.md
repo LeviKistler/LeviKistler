@@ -23,7 +23,14 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white
+
+## Projects:
+
+### Louisiana Parish Sheriff Sale Aggregator
+Built a web scraping pipeline that consolidates sheriff sale listings from multiple Louisiana parish sites into a single structured Excel dataset, then feeds that data into a Python-based Streamlit app to help identify potential investment properties (residential and commercial) based on key criteria.
+**Skills:** Python · Web Scraping · Pandas · Excel · Streamlit
+
 
 **Contact**: 
 
