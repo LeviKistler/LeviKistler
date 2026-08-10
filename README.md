@@ -17,7 +17,7 @@ I'm a finance professional with 4 years of experience in financial analysis and 
 | Credit Business Association (CBA Certification) | NACM | 2025 |
 | B.S. Finance | Indiana University | 2022 | 
 
-**Skills/Tech Stack**:
+## Skills/Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
