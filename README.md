@@ -30,6 +30,7 @@ I'm a finance professional with 4 years of experience in financial analysis and 
 
 ### Louisiana Parish Sheriff Sale Aggregator
 Built a web scraping pipeline that consolidates sheriff sale listings from multiple Louisiana parish sites into a single structured Excel dataset, then feeds that data into a Python-based Streamlit app to help identify potential investment properties (residential and commercial) based on key criteria.
+
 **Skills:** Python · Web Scraping · Pandas · Excel · Streamlit
 
 
