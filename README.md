@@ -34,7 +34,7 @@ Built a web scraping pipeline that consolidates sheriff sale listings from multi
 **Skills:** Python · Web Scraping · Pandas · Excel · Streamlit
 
 
-**Contact**: 
+## Contact: 
 
 Email: lkistle@purdue.edu
 
